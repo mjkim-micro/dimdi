@@ -9,3 +9,8 @@ phy <- qiime2R::qza_to_phyloseq(
 phy.rel <- transform_sample_counts(phy, function(x) 100*x/sum(x))
 
 ## select four microbial biomarkers
+markers <- as.data.frame(t(otu_table(aggregate_rare(phy.filt.rel, level = "Genus", prevalence = 50/100, detection = 0))))[,c("Alistipes", "Muribaculaceae", "Turicibacter", "Bacteroides")]
+markers.df <- as.data.frame(t(markers))
+markers.df$group <- c(rep(HC,2), rep(UH,2))
+
+View(markers.df)
