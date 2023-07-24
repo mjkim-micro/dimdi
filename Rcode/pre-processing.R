@@ -5,3 +5,7 @@ phy <- qiime2R::qza_to_phyloseq(
   tree="~/phylogeny/rooted-tree.qza",
   taxonomy = "~/taxa/taxonomy.qza",
   metadata = "~/metadata.tsv")
+
+phy.rel <- transform_sample_counts(phy, function(x) 100*x/sum(x))
+
+## select four microbial biomarkers
