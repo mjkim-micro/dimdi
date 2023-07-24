@@ -13,8 +13,10 @@ R base with version > 4.3 is recommended.
 
 #### Install the package
 ```R
-install.packages("BiocManager")
+install.packages(c("BiocManager", "devtools"))
 BiocManager::install(c("phyloseq", "microbiome"))
+devtools::install_github("jbisanz/qiime2R")
+
 ```
 
 ### Tutorials
