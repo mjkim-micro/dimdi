@@ -24,7 +24,7 @@ For detailed tutorials on pre-processing data for DiMDI function, the source cod
 
 
 ## Citation
-DiMDI package has been developed by the [MMLab](http://micro.knu.ac.kr/) at Kyungpook National University. We encourage users to further develop the pacakge to suit their needs. If you use the R pacakge, please cite us:
+DiMDI package has been developed by the [MMLab](http://micro.knu.ac.kr/) at Kyungpook National University. We encourage users to further develop the pacakge to suit their needs. If you use the R code, please cite us:
 
 * Min-Ji Kim, Da-Ryung Jung, Ji-Min Lee, Ikwhan Kim, HyunWoo Son, Eun Soo Kim, Jae-Ho Shin. "Microbial dysbiosis index for assessing colitis status in mouse models: a systematic review and meta-analysis"
 
