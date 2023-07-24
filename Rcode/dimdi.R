@@ -6,3 +6,7 @@ dimdi <- function(x) {
 
   log(1+ds/hc)
 }
+
+## calculate dimdi and show as table
+dimdi.out <- data.frame(sapply(markers.df[,1:(ncol(markers.df)-1)], dimdi))
+colnames(dimdi.out) <- "dimdi"
