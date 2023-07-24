@@ -18,7 +18,7 @@ BiocManager::install(c("phyloseq", "microbiome"))
 ```
 
 ### Tutorials
-For detailed tutorials on pre-processing data for DiMDI function, the source code is available [here](https://github.com/mjkim-micro/dimdi/Rcode). These codes include detailed step-by-step workflows.
+For detailed tutorials on pre-processing data for DiMDI function, the source code is available [here](https://github.com/mjkim-micro/dimdi/tree/main/Rcode). These codes include detailed step-by-step workflows.
 
 
 ## Citation
