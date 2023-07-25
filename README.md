@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-### Install package dependencies
+### Step 1. Install package dependencies
 To use DiMDI, first install all package dependencies. Ensure that you have necessary system environment configured.
 
 R base with version > 4.3 is recommended.
@@ -19,7 +19,7 @@ devtools::install_github("jbisanz/qiime2R")
 
 ```
 
-### Tutorials
+### Step 2. Tutorials
 For detailed tutorials on DiMDI function, the source code is available [here](https://github.com/mjkim-micro/dimdi/tree/main/Rcode). These codes include detailed step-by-step workflows.
 
 Calculation of DiMDI in R Studio primarily utilizes QIIME2 output files(**.qza**), but it is also possible to use the **'feature-table.txt'** aggregated in genus level as an alternative input. 
