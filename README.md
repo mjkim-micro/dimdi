@@ -1,8 +1,8 @@
 # DiMDI: Dextran sodium sulfate(DSS)-induced Microbial Dysbiosis Index for microbiota study using mouse model
 
 ## Overview
-**DiMDI** is a high-reliable and reproducible dysbiosis index to assess the state of microbial dysbiosis in mouse models. Particularly, it presents a standard for microbial imbalance in DSS-induced mouse models based on amplicon data.
-
+**DiMDI** is a high-reliable and reproducible dysbiosis index to assess the state of microbial dysbiosis in mouse models. Particularly, through meta-analysis, it provides a standard for microbial imbalance in DSS-induced mouse models based on amplicon data. **DiMDI** is useful to solve statistical and analytical errors that can occur in small-scale mouse experiments. Utilizing **DiMDI**, you can achieve highly reproducible interpretations in mouse gut microbiota studies even within small individual laboratories. 
+<p align="center"><img src=https://github.com/mjkim-micro/dimdi/assets/78595847/f06e2f4d-229c-4023-9bc2-e221b66f21ee height="600px" width="600px"></p>
 
 ## Getting Started
 
