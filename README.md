@@ -31,7 +31,7 @@ Calculation of DiMDI in R Studio primarily utilizes QIIME2 output files(**.qza**
 ## Citation
 DiMDI R code has been developed by the [MMLab](http://micro.knu.ac.kr/) at Kyungpook National University. We encourage users to further develop the code to suit their needs. If you use the R code, please cite us:
 
-* Min-Ji Kim, Da-Ryung Jung, Ji-Min Lee, Ikwhan Kim, HyunWoo Son, Eun Soo Kim, Jae-Ho Shin. "Microbial dysbiosis index for assessing colitis status in mouse models: a systematic review and meta-analysis." (2023) _iScience_. (https://doi.org/10.1016/j.isci.2023.108657)
+* Min-Ji Kim, Da-Ryung Jung, Ji-Min Lee, Ikwhan Kim, HyunWoo Son, Eun Soo Kim, Jae-Ho Shin. "Microbial dysbiosis index for assessing colitis status in mouse models: a systematic review and meta-analysis." (2024) _iScience_. (https://doi.org/10.1016/j.isci.2023.108657)
 
 
 ## Feature requests
