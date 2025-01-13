@@ -27,6 +27,10 @@ Calculation of DiMDI in R Studio primarily utilizes QIIME2 output files(**.qza**
 * **Selecting microbial biomarkers:** Follow [pre-processing.R](https://github.com/mjkim-micro/dimdi/blob/main/Rcode/pre-processing.R)
 * **Calculating DiMDI:** Use [dimdi.R](https://github.com/mjkim-micro/dimdi/blob/main/Rcode/dimdi.R)
 
+## License
+This code is made available under the CC BY-NC 4.0 license for non-commercial research applications.
+For more details, see the [LICENSE](./LICENSE) file.
+
 
 ## Citation
 DiMDI R code has been developed by the [MMLab](http://micro.knu.ac.kr/) at Kyungpook National University. We encourage users to further develop the code to suit their needs. If you use the R code, please cite us:
